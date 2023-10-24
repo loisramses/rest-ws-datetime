@@ -1,6 +1,4 @@
-# Elastic stack (ELK) on Docker
-
-## tl;dr
+# REST Web Service that provides the current datetime
 
 ```sh
 docker-compose build
